@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rajkaran Mishra, <br> Software Developer and Aspiring Data Scientist.</h2>
+<h2 align="center">Hi 👋, I'm Rajkaran Mishra, <br> Software Engineer and Aspiring Data Scientist.</h2>
 <p align="center">Building projects on Data Science.</p>
 
 
