@@ -4,7 +4,7 @@
 
 <h3 align="center">Social Media:</h3>
 <p align="center">
-<a href="rajkaranvir456@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/raj-karan/" height="30" width="80" /></a>
+<a href="mailto:rajkaranvir456@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/raj-karan/" height="30" width="80" /></a>
 <a href="https://www.linkedin.com/in/raj-karan/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/raj-karan/" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/rajkaranvir456" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/rajkaranvir456" height="30" width="80" /></a>
 <a href="https://rajkaran359.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://rajkaran359.medium.com" height="30" width="80" /></a>
