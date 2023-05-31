@@ -11,8 +11,3 @@
 <a href="https://twitter.com/rajkaran359" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="https://twitter.com/rajkaran359" height="30" width="80" /></a>
 <a href="https://rajkaranm.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="https://rajkaranm.github.io/portfolio" height="30" width="80" /></a>
 </p>
-
-<h3 align="center">Github Stats:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajkaranm&show_icons=true&locale=en" alt="rajkaranm" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkaranm&" alt="rajkaranm" /></p>
