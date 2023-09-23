@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rajkaran Mishra, <br> Software Engineer and Penetration Tester.</h2>
-<p align="center">Currently Solving CTF and Hacking vulnerable Machines</p>
+<p align="center">Currently making projects and Solving CTF, Hacking vulnerable Machines on HackTheBox</p>
 
 
 <h3 align="center">Social Media:</h3>
